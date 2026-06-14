@@ -1,1 +1,20 @@
-{"name": "hddportfoliov2","version": "1.0.0","private": true,"scripts": {"start": "react-scripts start","build": "react-scripts build","test": "react-scripts test","eject": "react-scripts eject"},"dependencies": {"react": "^17.0.2","react-dom": "^17.0.2","react-scripts": "4.0.3"}}
+{
+  "name": "hddportfoliov2",
+  "version": "1.0.0",
+  "private": true,
+
+  "engines": {
+    "node": "18.x"
+  },
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1"
+  }
+}
