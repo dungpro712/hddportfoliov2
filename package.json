@@ -2,22 +2,13 @@
   "name": "hddportfoliov2",
   "version": "1.0.0",
   "private": true,
-<<<<<<< HEAD
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
-=======
-
-  "engines": {
-    "node": "18.x"
-  },
-
->>>>>>> de34757ec1bc0a04234a9dc44e4666211bcd038f
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-<<<<<<< HEAD
   "dependencies": {
     "lucide-react": "^1.18.0",
     "react": "^18.3.1",
@@ -35,12 +26,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-
-  "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.1"
->>>>>>> de34757ec1bc0a04234a9dc44e4666211bcd038f
   }
 }
