@@ -435,10 +435,8 @@ const initialData = {
     title: "Project Development & Team",
     shortDesc: "Capturing the journey of building the Maze Runner Robot, from hardware integration to team collaboration.",
     images: [
-      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800",
-      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800",
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=800",
-      "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=800"
+      "/robot.jpg",
+      "/teamproject.jpg",
     ]
   },
   achievements: [
