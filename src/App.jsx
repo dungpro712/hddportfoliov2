@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { 
   User, BookOpen, Users, Brain, Briefcase, Trophy, Map, 
+<<<<<<< HEAD
   Save, Edit3, GitHub, Mail, Phone, ExternalLink,
+=======
+  Save, Edit3, Github, Mail, Phone, ExternalLink,
+>>>>>>> de34757ec1bc0a04234a9dc44e4666211bcd038f
   Cpu, MessageSquare, Code, Menu, X, ChevronDown, ChevronUp, Bot, Image as ImageIcon,
   Camera, RotateCcw, Lightbulb, CheckCircle2, ListChecks, TrendingUp, AlertCircle,
   Target, Compass, LineChart, ArrowRight, CheckSquare, Square
