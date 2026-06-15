@@ -1005,7 +1005,7 @@ const App = () => {
               {/* Strengths Column */}
               <div className="space-y-4 bg-slate-950/30 p-6 rounded-3xl border border-emerald-500/10">
                 <span className="text-xs font-black uppercase tracking-widest text-emerald-400 flex items-center gap-1.5 border-b border-slate-800/80 pb-3">
-                  <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span> Strengths (image_554fdb.png)
+                  <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span> Strengths
                 </span>
                 <ul className="space-y-3">
                   {data.selfEvaluation.selfAssessment.strengths.map((str, idx) => (
@@ -1024,7 +1024,7 @@ const App = () => {
               {/* Weaknesses Column */}
               <div className="space-y-4 bg-slate-950/30 p-6 rounded-3xl border border-amber-500/10">
                 <span className="text-xs font-black uppercase tracking-widest text-amber-500 flex items-center gap-1.5 border-b border-slate-800/80 pb-3">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span> Weaknesses (image_554fdb.png)
+                  <span className="w-2 h-2 rounded-full bg-amber-500"></span> Weaknesses
                 </span>
                 <ul className="space-y-3">
                   {data.selfEvaluation.selfAssessment.weaknesses.map((weak, idx) => (
@@ -1043,7 +1043,7 @@ const App = () => {
               {/* Improvements Column */}
               <div className="space-y-4 bg-slate-950/30 p-6 rounded-3xl border border-sky-500/10">
                 <span className="text-xs font-black uppercase tracking-widest text-sky-400 flex items-center gap-1.5 border-b border-slate-800/80 pb-3">
-                  <span className="w-2 h-2 rounded-full bg-sky-400"></span> Actionable Solutions (image_554f28.png)
+                  <span className="w-2 h-2 rounded-full bg-sky-400"></span> Actionable Solutions
                 </span>
                 <ul className="space-y-3">
                   {data.selfEvaluation.selfAssessment.improvements.map((imp, idx) => (
